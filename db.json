@@ -1,0 +1,149 @@
+{
+  "administration": [
+	      {
+          "id": "01F4DB7ADMI36VR4J9KMWRTEJ",
+          "name": "Administrateur",
+          "type": "Administrateur",
+          "applications": ["KOTscan Admin"],
+          "createdAt": "2022-01-22T07:45:00Z",
+          "updatedAt": "2022-02-05T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EN0A87D1Y7W9H936589GM",
+            "firstname": "Fanny",
+            "lastname": "Lemoine"
+          }
+	      },
+	      {
+          "id": "01F47ADSUPPDX836VJ9KMWRTEJ",
+          "name": "Support",
+          "type": "Support",
+          "applications": ["KOTscan Admin"],
+          "createdAt": "2022-01-22T07:45:00Z",
+          "updatedAt": "2022-02-02T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EN0A87D1Y7W9H936589GM",
+            "firstname": "Camille",
+            "lastname": "Biraben"
+          }
+	      },
+	      {
+          "id": "01F47ADBCOUNTR6VR4J9KMWRTEJ",
+          "name": "Country Manager",
+          "type": "Country Manager",
+          "applications": ["KOTscan Admin"],
+          "createdAt": "2022-01-22T07:45:00Z",
+          "updatedAt": "2022-02-03T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EN87D1Y7W9H9J3N589GM",
+            "firstname": "Jean-Baptiste",
+            "lastname": "Bouhon"
+          }
+	      },
+	      {
+          "id": "01F47ABDASSIVR4J9KMWRTEJ",
+          "name": "Assistant Manager",
+          "type": "Assistant Manager",
+          "applications": ["KOTscan Admin"],
+          "createdAt": "2022-01-22T07:45:00Z",
+          "updatedAt": "2022-01-28T07:45:00Z",
+          "updatedBy": {
+            "ulid": "string",
+            "firstname": "Fanny",
+            "lastname": "Lemoine"
+          }
+	      },
+	      {
+          "id": "01F47ADADMINX836VR4J9KMWRT",
+          "name": "Administrateur",
+          "type": "Administrateur",
+          "applications": ["KOTscan Manager"],
+          "createdAt": "2022-01-22T07:45:00Z",
+          "updatedAt": "2022-01-27T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EN0A87D1Y7W9936J589KD",
+            "firstname": "Fanny",
+            "lastname": "Lemoine"
+          }
+	      },
+	      {
+          "id": "014AB7DXOPERR4J9KMWRTEJ",
+          "name": "Opérateur",
+          "type": "Opérateur",
+          "applications": ["KOTscan Manger"],
+          "createdAt": "2022-01-22T07:45:00Z",
+          "updatedAt": "2022-01-25T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EA87D1Y7W9H936J3N589",
+            "firstname": "Fanny",
+            "lastname": "Lemoine"
+          }
+	      },
+	      {
+          "id": "01F47AD7DXCLIENTR4J9KRTEJ",
+          "name": "Client en compte",
+          "type": "Client en compte",
+          "applications": ["KOTscan Manager"],
+          "createdAt": "2022-01-22T07:45:00Z",
+          "updatedAt": "2022-01-24T07:45:00Z",
+          "updatedBy": {
+            "ulid": "010A87D1Y7W936J3N59KD",
+            "firstname": "Fanny",
+            "lastname": "Lemoine"
+          }
+	      }
+    ],
+  "operational": [
+	      {
+          "id": "01F4DB7DGUI36VR4J9KMWRTEJ",
+          "name": "Guichetier",
+          "type": "Guichetier",
+          "applications": ["KOTscan android", "KOTscan web"],
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-02-05T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EN0A87D1Y7W9H936589GM",
+            "firstname": "Fanny",
+            "lastname": "Lemoine"
+          }
+	      },
+	      {
+          "id": "01F47ADLIV7DX836VJ9KMWRTEJ",
+          "name": "Livreur",
+          "type": "Livreur",
+          "applications": ["KOTscan android"],
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-02-03T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EN0A87D1Y7W9H936589GM",
+            "firstname": "Camille",
+            "lastname": "Biraben"
+          }
+	      },
+	      {
+          "id": "01F47ADB7D3GUICR4J9KMWRTEJ",
+          "name": "Guichetier",
+          "type": "Guichetier",
+          "applications": ["KOTscan web"],
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-02-01T07:45:00Z",
+          "updatedBy": {
+            "ulid": "01EN87D1Y7W9H9J3N589GM",
+            "firstname": "Jean-Baptiste",
+            "lastname": "Bouhon"
+          }
+	      },
+	      {
+          "id": "01F47ABDX8LIVRVR4J9KMWRTEJ",
+          "name": "Livreur",
+          "type": "Livreur",
+          "applications": ["KOTscan android", "KOTscan web"],
+          "createdAt": "2022-01-28T07:45:00Z",
+          "updatedAt": "2022-01-30T07:45:00Z",
+          "updatedBy": {
+            "ulid": "string",
+            "firstname": "Jean-Baptiste",
+            "lastname": "Bouhon"
+          }
+	      }
+    ],
+}
