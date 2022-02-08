@@ -1,5 +1,5 @@
 {
-  "administration": [
+  "profiles": [
 	      {
           "id": "01F4DB7ADMI36VR4J9KMWRTEJ",
           "name": "Administrateur",
@@ -90,9 +90,7 @@
             "firstname": "Fanny",
             "lastname": "Lemoine"
           }
-	      }
-    ],
-  "operational": [
+	      },
 	      {
           "id": "01F4DB7DGUI36VR4J9KMWRTEJ",
           "name": "Guichetier",
@@ -145,5 +143,5 @@
             "lastname": "Bouhon"
           }
 	      }
-    ],
+	  ]
 }
